@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnTriger
+  - Enemy
+  - Coin
+  - PlayBtn
+  - MainScreen
+  - MainMenu
+  - PauseMenu
+  - GameScoreMenu
+  - GamePlayScreen
+  - G_Enemy
+  - SlowSpeedTrigger
+  - FastSpeedTrigger
+  - Box_1
+  - Box_2
+  - Box_3
+  - Box_4
+  - Box_5
+  - Box_6
+  - Box_7
+  - Box_8
+  - Box_9
+  - Box_10
+  - Fire
+  - PlayerMesh
+  - CountText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UICamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
